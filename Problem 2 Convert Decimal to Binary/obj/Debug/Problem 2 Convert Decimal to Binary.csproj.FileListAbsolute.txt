@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\obj\Debug\Problem 2 Convert Decimal to Binary.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\obj\Debug\Problem 2 Convert Decimal to Binary.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\bin\Debug\Problem 2 Convert Decimal to Binary.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\bin\Debug\Problem 2 Convert Decimal to Binary.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\bin\Debug\Problem 2 Convert Decimal to Binary.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\obj\Debug\Problem 2 Convert Decimal to Binary.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 2 Convert Decimal to Binary\obj\Debug\Problem 2 Convert Decimal to Binary.pdb
