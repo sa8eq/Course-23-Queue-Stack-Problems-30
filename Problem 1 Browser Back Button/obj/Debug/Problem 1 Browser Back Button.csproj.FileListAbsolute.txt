@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\bin\Debug\Problem 1 Browser Back Button.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\bin\Debug\Problem 1 Browser Back Button.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\bin\Debug\Problem 1 Browser Back Button.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\obj\Debug\Problem 1 Browser Back Button.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\obj\Debug\Problem 1 Browser Back Button.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\obj\Debug\Problem 1 Browser Back Button.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 1 Browser Back Button\obj\Debug\Problem 1 Browser Back Button.pdb
