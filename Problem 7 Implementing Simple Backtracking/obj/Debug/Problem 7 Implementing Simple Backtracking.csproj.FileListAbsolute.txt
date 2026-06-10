@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\bin\Debug\Problem 7 Implementing Simple Backtracking.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\bin\Debug\Problem 7 Implementing Simple Backtracking.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\bin\Debug\Problem 7 Implementing Simple Backtracking.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\obj\Debug\Problem 7 Implementing Simple Backtracking.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\obj\Debug\Problem 7 Implementing Simple Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\obj\Debug\Problem 7 Implementing Simple Backtracking.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 7 Implementing Simple Backtracking\obj\Debug\Problem 7 Implementing Simple Backtracking.pdb

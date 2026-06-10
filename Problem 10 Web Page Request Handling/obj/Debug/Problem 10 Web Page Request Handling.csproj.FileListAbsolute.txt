@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\bin\Debug\Problem 10 Web Page Request Handling.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\bin\Debug\Problem 10 Web Page Request Handling.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\bin\Debug\Problem 10 Web Page Request Handling.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\obj\Debug\Problem 10 Web Page Request Handling.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\obj\Debug\Problem 10 Web Page Request Handling.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\obj\Debug\Problem 10 Web Page Request Handling.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 10 Web Page Request Handling\obj\Debug\Problem 10 Web Page Request Handling.pdb
