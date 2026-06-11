@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\bin\Debug\Problem 14 Sort a Queue.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\bin\Debug\Problem 14 Sort a Queue.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\bin\Debug\Problem 14 Sort a Queue.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\obj\Debug\Problem 14 Sort a Queue.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\obj\Debug\Problem 14 Sort a Queue.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\obj\Debug\Problem 14 Sort a Queue.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 14 Sort a Queue\obj\Debug\Problem 14 Sort a Queue.pdb

@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\bin\Debug\Problem 16 Rotate a Queue.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\bin\Debug\Problem 16 Rotate a Queue.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\bin\Debug\Problem 16 Rotate a Queue.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\obj\Debug\Problem 16 Rotate a Queue.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\obj\Debug\Problem 16 Rotate a Queue.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\obj\Debug\Problem 16 Rotate a Queue.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 16 Rotate a Queue\obj\Debug\Problem 16 Rotate a Queue.pdb

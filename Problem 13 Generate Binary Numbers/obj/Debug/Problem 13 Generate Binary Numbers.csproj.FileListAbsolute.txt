@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\bin\Debug\Problem 13 Generate Binary Numbers.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\bin\Debug\Problem 13 Generate Binary Numbers.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\bin\Debug\Problem 13 Generate Binary Numbers.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\obj\Debug\Problem 13 Generate Binary Numbers.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\obj\Debug\Problem 13 Generate Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\obj\Debug\Problem 13 Generate Binary Numbers.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 13 Generate Binary Numbers\obj\Debug\Problem 13 Generate Binary Numbers.pdb
