@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\bin\Debug\Problem 27 Check palindrome using a stack.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\bin\Debug\Problem 27 Check palindrome using a stack.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\bin\Debug\Problem 27 Check palindrome using a stack.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\obj\Debug\Problem 27 Check palindrome using a stack.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\obj\Debug\Problem 27 Check palindrome using a stack.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\obj\Debug\Problem 27 Check palindrome using a stack.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 27 Check palindrome using a stack\obj\Debug\Problem 27 Check palindrome using a stack.pdb

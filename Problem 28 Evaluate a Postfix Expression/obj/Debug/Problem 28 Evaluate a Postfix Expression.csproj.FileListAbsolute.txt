@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\bin\Debug\Problem 28 Evaluate a Postfix Expression.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\bin\Debug\Problem 28 Evaluate a Postfix Expression.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\bin\Debug\Problem 28 Evaluate a Postfix Expression.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\obj\Debug\Problem 28 Evaluate a Postfix Expression.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\obj\Debug\Problem 28 Evaluate a Postfix Expression.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\obj\Debug\Problem 28 Evaluate a Postfix Expression.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 28 Evaluate a Postfix Expression\obj\Debug\Problem 28 Evaluate a Postfix Expression.pdb

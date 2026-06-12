@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\bin\Debug\Problem 22 Rearrange Even and Odd Elements.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\bin\Debug\Problem 22 Rearrange Even and Odd Elements.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\bin\Debug\Problem 22 Rearrange Even and Odd Elements.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\obj\Debug\Problem 22 Rearrange Even and Odd Elements.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\obj\Debug\Problem 22 Rearrange Even and Odd Elements.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\obj\Debug\Problem 22 Rearrange Even and Odd Elements.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 22 Rearrange Even and Odd Elements\obj\Debug\Problem 22 Rearrange Even and Odd Elements.pdb

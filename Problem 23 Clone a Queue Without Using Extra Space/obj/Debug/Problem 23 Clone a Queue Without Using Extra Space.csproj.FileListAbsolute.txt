@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\obj\Debug\Problem 23 Clone a Queue Without Using Extra Space.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\obj\Debug\Problem 23 Clone a Queue Without Using Extra Space.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\bin\Debug\Problem 23 Clone a Queue Without Using Extra Space.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\bin\Debug\Problem 23 Clone a Queue Without Using Extra Space.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\bin\Debug\Problem 23 Clone a Queue Without Using Extra Space.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\obj\Debug\Problem 23 Clone a Queue Without Using Extra Space.exe
+C:\Users\sadeq\Desktop\Road Map\Course 23\Queue & Stack Problems (30)\Problem 23 Clone a Queue Without Using Extra Space\obj\Debug\Problem 23 Clone a Queue Without Using Extra Space.pdb
